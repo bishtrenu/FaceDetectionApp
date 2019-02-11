@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "910699936508",
+    "firebase_url": "https://mlkitonline-cd219.firebaseio.com",
+    "project_id": "mlkitonline-cd219",
+    "storage_bucket": "mlkitonline-cd219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910699936508:android:f76c6d8979900d8d",
+        "android_client_info": {
+          "package_name": "com.example.renu.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910699936508-4b7854a55c7m2s1h03nefdipnitisvp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.renu.facedetection",
+            "certificate_hash": "5ba22c107c5451d40a3e76db52076dbaaf54166f"
+          }
+        },
+        {
+          "client_id": "910699936508-n8fflnd8uu43kmch9g776668n5h0brak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7L8mb7UtsiSEE1FPsPcVMOuwXl9aiiqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910699936508-n8fflnd8uu43kmch9g776668n5h0brak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
